@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/br4ckets-light",
+  "repository": "https://github.com/sergejmueller/br4ckets-light",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
