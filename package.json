@@ -1,0 +1,15 @@
+{
+  "name": "br4ckets-light",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A Atom Light Theme inspired by the Brackets Editor Default Color Scheme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/br4ckets-light",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
