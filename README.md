@@ -5,4 +5,6 @@ A Atom Light Theme inspired by the [Brackets](http://brackets.io) Editor Default
 
 
 _Screenshot of Br4ckets Light_
-<img width="470" height="470" src="https://github.com/sergejmueller/br4ckets-light/blob/master/screenshot.png" alt="Screenshot of Br4ckets Light" />
+<p>
+    <img width="470" height="470" src="https://github.com/sergejmueller/br4ckets-light/blob/master/screenshot.png" alt="Screenshot of Br4ckets Light" />
+</p>
