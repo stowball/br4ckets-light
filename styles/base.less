@@ -49,7 +49,7 @@ atom-text-editor.is-focused .selection .region {
 }
 
 atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-editor.is-focused .line.cursor-line {
-  background-color: #e2eefd;
+  background-color: fade(#e2eefd, 80%);
 }
 
 .syntax--text.syntax--html.syntax--basic {
@@ -222,7 +222,11 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
 }
 
 .bracket-matcher .region {
-  background: #d0ead7;
+  background: #b9dfc1;
+  border: solid #b9dfc1;
+  border-width: 1px 0;
+  box-sizing: content-box !important;
+  margin-top: -1px;
 }
 
 .syntax--keyword.syntax--control {
