@@ -52,6 +52,17 @@ atom-text-editor.is-focused .line-number.cursor-line-no-selection, atom-text-edi
   background-color: fade(#e2eefd, 80%);
 }
 
+atom-text-editor {
+  ::-webkit-scrollbar-track {
+    background: #eee;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #ccc !important;
+    border-radius: 4px;
+  }
+}
+
 .syntax--text.syntax--html.syntax--basic {
   color: #414141;
 }
